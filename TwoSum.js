@@ -27,5 +27,3 @@ You can return the answer in any order.
  }
 
 };
-
-console.log('hello');
